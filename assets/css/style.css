@@ -387,10 +387,11 @@ main{
 }
 .content{
   /* border: 1px solid black; */
+  padding-top: 0.1px;
   padding-bottom: 4vw;
   position: relative;
   left: 0;
-  top: 0;
+  top: -0vw;
   background-color: rgb(244,244,244);
   width: 90.37vw;
   /* height: 100%; */
