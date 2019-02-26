@@ -327,7 +327,7 @@ video{
 .homeDesign a:hover{
   text-decoration: underline;
 }
-.searchIcon{
+/* .searchIcon{
   z-index: 1;
   transition: 0.5s;
   position: relative;
@@ -343,7 +343,7 @@ video{
 .searchIcon:hover{
   cursor: pointer;
   opacity: 1;
-}
+} */
 /* main */
 main{
   padding-top: 0.1px;
@@ -393,7 +393,7 @@ main{
 }
 
 .webDevelopment{
-  margin-top: -1.85vw;
+  margin-top: 4.15vw;
   margin-left: 5.5vw;
   position: relative;
 }
