@@ -190,6 +190,13 @@ video{
   right: 0;
   margin-top: 2.2vw;
 }
+#searchID{
+  font-size: 3vw;
+  margin: 0;
+  position: relative;
+  top: -1.4vw;
+  margin-right: 2vw;
+}
 .links a{
   transition: 0.4s;
   font-family: 'Montserrat-Light',serif;
