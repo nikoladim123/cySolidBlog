@@ -243,8 +243,8 @@ video{
 .burgerMenu{
   width: 4vw;
   margin-top: 0.25vw;
-  margin-left: 2.5vw;
-  margin-right: 4.888vw;
+  margin-left: 1vw;
+  margin-right: 8vw;
   /* height: 2vw; */
 }
 .burgerMenu:hover{
@@ -254,10 +254,18 @@ video{
   transition: 0.4s;
   left: 0;
   position: relative;
-  background-color: white;
-  height: 2px ;
+  background-color: rgb(255,252,7);
+  height: 0.296vw ;
   width: 100%;
   margin-bottom: 0.6vw;
+}
+.burgerLine:nth-child(1) {
+    width: 58%;
+    left: 42%;
+}
+.burgerLine:nth-child(3) {
+    width: 75%;
+    left: 25%;
 }
 
 .zero,.three{
